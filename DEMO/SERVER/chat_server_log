@@ -1,0 +1,31 @@
+Starting to listen
+Connected from IP 127.0.0.1
+RCVD:sign_in user1
+SENT:authenticated
+RCVD:end
+Starting to listen
+Connected from IP 127.0.0.1
+RCVD:sign_in user1
+SENT:authenticated
+RCVD:select
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:message
+RCVD:next
+SENT:end
+RCVD:end
+Starting to listen
